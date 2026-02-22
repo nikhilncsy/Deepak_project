@@ -1,0 +1,15 @@
+#pip install -r requirements.txt
+
+easyocr
+torch 
+torchvision 
+torchaudio
+opencv-python==4.9.0.80
+ultralytics==8.1.25
+pytesseract==0.3.10
+Pillow==10.2.0
+torch==2.2.2
+numpy==1.26.4
+fastapi
+uvicorn
+python-multipart

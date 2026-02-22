@@ -1,0 +1,13 @@
+Method : POST
+
+http://4.247.142.25:5001/pansignature
+
+http://4.247.142.25:5001/aadharmask
+
+http://4.247.142.25:5001/facecrop
+
+http://4.247.142.25:5001/docscrop
+
+
+
+
